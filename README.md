@@ -1,3 +1,5 @@
+![NitinPy](https://github.com/user-attachments/assets/fe232daa-a1b0-4072-b8b2-1eaa73216e81)
+
 # Hi, I'm Nitin 👋  
 Data Enthusiast | Operations Optimizer | Dashboard Developer
 
